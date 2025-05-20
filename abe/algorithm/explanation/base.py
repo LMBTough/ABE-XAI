@@ -12,8 +12,8 @@ if TYPE_CHECKING:
 
     import torch
 
-from demo.task import ExplanationTask
-from demo.type import ModelType
+from abe.task import ExplanationTask
+from abe.type import ModelType
 
 import os
 
@@ -21,7 +21,7 @@ import torch
 from tqdm import tqdm
 import numpy as np
 
-from demo.func.utils import _check_device,_check_shuffle
+from abe.func.utils import _check_device,_check_shuffle
 
 class BaseAttributor(ABC):
     """The base class for all explanation algorithms."""

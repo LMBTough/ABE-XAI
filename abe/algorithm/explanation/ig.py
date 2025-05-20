@@ -1,9 +1,9 @@
-from demo.algorithm.explanation.base import Attributor
-from demo.task import ExplanationTask
+from abe.algorithm.explanation.base import Attributor
+from abe.task import ExplanationTask
 from typing import Any
 import torch
 import numpy as np
-from demo.type import ModelType
+from abe.type import ModelType
 
 
 class IG(Attributor):

@@ -17,7 +17,7 @@ import torch
 from torch import nn
 from torch import Tensor
 from torch.utils.data import DataLoader, RandomSampler
-from demo.type import ModelType
+from abe.type import ModelType
 import torch.nn.functional as F
 import warnings
 

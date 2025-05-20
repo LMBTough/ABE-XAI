@@ -3,8 +3,8 @@ from trulens.visualizations import Visualizer, get_backend
 import matplotlib.pyplot as plt
 import numpy as np
 import os
-from demo.func.utils import _check_device
-from demo.type import ModelType
+from abe.func.utils import _check_device
+from abe.type import ModelType
 import torch
 import cv2
 from torchvision.ops import nms

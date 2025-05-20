@@ -1,6 +1,6 @@
-from demo.algorithm.explanation.base import Attributor
-from demo.task import ExplanationTask,AttackTask
-from demo.algorithm.attack import FGSM
+from abe.algorithm.explanation.base import Attributor
+from abe.task import ExplanationTask,AttackTask
+from abe.algorithm.attack import FGSM
 from typing import Any
 import torch
 import numpy as np

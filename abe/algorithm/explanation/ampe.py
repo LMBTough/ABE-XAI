@@ -1,6 +1,6 @@
-from demo.algorithm.explanation.base import Attributor
-from demo.task import ExplanationTask,AttackTask
-from demo.algorithm.attack import SSA
+from abe.algorithm.explanation.base import Attributor
+from abe.task import ExplanationTask,AttackTask
+from abe.algorithm.attack import SSA
 from typing import Any
 import torch
 import numpy as np

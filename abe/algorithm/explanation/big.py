@@ -1,13 +1,13 @@
 import numpy as np
 import torch.nn.functional as F
-from demo.algorithm.attack import BIM
-from demo.algorithm.explanation.base import Attributor
-from demo.task import ExplanationTask,AttackTask
-from demo.algorithm.explanation.ig import IG
+from abe.algorithm.attack import BIM
+from abe.algorithm.explanation.base import Attributor
+from abe.task import ExplanationTask,AttackTask
+from abe.algorithm.explanation.ig import IG
 from typing import Any, List,Tuple
 import torch
 import numpy as np
-from demo.type import ModelType
+from abe.type import ModelType
 
 
 
