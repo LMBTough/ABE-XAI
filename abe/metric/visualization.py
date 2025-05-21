@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-from trulens.visualizations import Visualizer, get_backend
+from trulens_eval.visualizations import Visualizer, get_backend
 import matplotlib.pyplot as plt
 import numpy as np
 import os
