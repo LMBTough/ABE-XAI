@@ -93,9 +93,9 @@ This repository demonstrates adversarial attacks and explanation techniques usin
 ## Examples
 
 1. **Time Series Predition**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KxPlaug/ABE-XAI/blob/main/colab/time_series_predition.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LMBTough/ABE-XAI/blob/main/colab/time_series_predition.ipynb)
 2. **Image Classification**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KxPlaug/ABE-XAI/blob/main/colab/image_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LMBTough/ABE-XAI/blob/main/colab/image_classification.ipynb)
 3. **Object Detection**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NKAZGdduhrx5cEbsKmtgWx77tNIFK-OU)
 4. **Text Classification**
