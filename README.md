@@ -97,7 +97,7 @@ This repository demonstrates adversarial attacks and explanation techniques usin
 2. **Image Classification**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LMBTough/ABE-XAI/blob/main/colab/image_classification.ipynb)
 3. **Object Detection**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NKAZGdduhrx5cEbsKmtgWx77tNIFK-OU)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LMBTough/ABE-XAI/blob/main/colab/object_detection.ipynb)
 4. **Text Classification**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NKAZGdduhrx5cEbsKmtgWx77tNIFK-OU)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LMBTough/ABE-XAI/blob/main/colab/nlp_classification.ipynb)
 ---
