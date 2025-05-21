@@ -1,5 +1,8 @@
 import matplotlib.pyplot as plt
-from trulens_eval import Visualizer, get_backend
+import sys
+from abe import dataclasses
+sys.modules['dataclasses'] = dataclasses
+from trulens.visualizations import Visualizer, get_backend
 import matplotlib.pyplot as plt
 import numpy as np
 import os
