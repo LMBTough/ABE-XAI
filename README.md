@@ -1,6 +1,13 @@
-# ABE-XAI
+<div align="center">
+
+# ABE-XAI: A Unified Framework for Robust and Faithful Attribution-Based Explainability
+
+[![arXiv](https://img.shields.io/badge/arXiv-2505.06258-b31b1b.svg)](https://arxiv.org/abs/2505.06258)
+
+</div>
 
 This repository demonstrates adversarial attacks and explanation techniques using a provided model. It includes examples of both untargeted and targeted adversarial attacks, together with several visualisation utilities that help interpret a model’s behaviour across **image**, **object‑detection**, **natural‑language** and **time‑series** tasks.
+
 
 ---
 
@@ -105,6 +112,18 @@ The thumbnails below are **not** committed binary files. They are generated au
 | **Object detection**       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LMBTough/ABE-XAI/blob/main/colab/object_detection.ipynb)      |
 | **Text classification**    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LMBTough/ABE-XAI/blob/main/colab/nlp_classification.ipynb)    |
 
+---
+
+## Citation
+
+```bibtex
+@article{zhu2025abe,
+  title={ABE: A Unified Framework for Robust and Faithful Attribution-Based Explainability},
+  author={Zhu, Zhiyu and Zhang, Jiayu and Jin, Zhibo and Chen, Fang and Zhou, Jianlong},
+  journal={arXiv preprint arXiv:2505.06258},
+  year={2025}
+}
+```
 ---
 
 For questions or contributions please open an issue or contact the maintainers.
